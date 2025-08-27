@@ -172,7 +172,7 @@ const Confirmacao = () => {
                     <div>
                       <span className="font-medium text-sm">Chave PIX:</span>
                       <p className="text-xs md:text-sm bg-white p-2 rounded border font-mono break-all">
-                        mundopet@email.com
+                       527c03b6-71e3-46ec-8a8b-17b255bd44c1
                       </p>
                     </div>
                     <div className="bg-white p-4 rounded text-center">
@@ -180,6 +180,7 @@ const Confirmacao = () => {
                         <span className="text-xs text-gray-500">QR Code PIX</span>
                       </div>
                       <p className="text-xs text-muted-foreground mt-2">
+                      
                         Escaneie o código ou use a chave PIX acima
                       </p>
                     </div>
@@ -213,7 +214,7 @@ const Confirmacao = () => {
                   
                   <Link to="/" className="block">
                     <Button variant="hero" size="lg" className="w-full">
-                      ✅ Agendamento Confirmado
+                      Agendar Consulta 
                     </Button>
                   </Link>
                 </div>
